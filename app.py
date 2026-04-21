@@ -374,7 +374,7 @@ st.download_button(
 # ============================================
 
 st.markdown("---")
-st.caption("🔒 **Conta Certa** - Conciliação Financeira | Dados processados localmente, nenhuma informação é armazenada | Versão Robusta")
+st.caption("🔒 **Conta Certa** - Conciliação Financeira | Dados processados localmente, nenhuma informação é armazenada | Versão Robusta|Desenvolvido por Glailton Nascimento.")
 
 # Opcional: Mostrar informações de debug (útil para suporte)
 with st.expander("🔧 Informações técnicas"):
