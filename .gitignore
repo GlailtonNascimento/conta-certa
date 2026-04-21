@@ -1,0 +1,33 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit
+.streamlit/
+
+# Arquivos temporários
+*.tmp
+*.log
+*.cache
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de ambiente
+.env
+venv/
+env/
+
+# Arquivos de usuário (dados reais - NÃO subir)
+*.xlsx
+!dados_teste/*.xlsx
+*.csv
+!dados_teste/*.csv
+
+# IDE
+.vscode/
+.idea/
