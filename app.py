@@ -1,7 +1,7 @@
 
 # ============================================
 # CONTA CERTA - SISTEMA DE CONCILIAÇÃO FINANCEIRA
-# Versão Robusta com melhorias de UX e performance
+# Versão Robusta| Desenvolvido por : Glailton Nascimento 
 # ============================================
 
 import streamlit as st
